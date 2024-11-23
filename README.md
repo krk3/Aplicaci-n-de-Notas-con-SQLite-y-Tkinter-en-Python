@@ -22,17 +22,17 @@ Aplicación de notas en Python utilizando SQLite para la base de datos y Tkinter
 
 1. Clona este repositorio:
  ```bash
-git clone https://github.com/krk3/Aplicaci-n-de-Notas-con-SQLite-y-Tkinter-en-Python.git
+git clone https://github.com/krk3/AplicacionNotas.git
   ```
 2. Navega al directorio del proyecto:
   ```bash
-git clone cd nombre_del_repositorio
+git clone cd AplicacionNotas
 ```
 3. Asegúrate de tener Python instalado en tu máquina.
 
 4. Ejecuta el script Python:
 ```bash
-python notas_app.py
+AplicacionNotas.py
 ```
 ## Uso
 1. Al ejecutar la aplicación, se abrirá una ventana gráfica donde podrás:
